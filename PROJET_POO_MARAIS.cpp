@@ -14,5 +14,5 @@ class vegetaux {
 
 int main()
 {
-    
+    return 0;
 }
